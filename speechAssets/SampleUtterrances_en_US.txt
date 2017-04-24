@@ -1,0 +1,16 @@
+GetNewFactIntent how can I go green
+GetNewFactIntent how can i recycle better
+GetNewFactIntent a recycling idea
+GetNewFactIntent tell me a green idea
+GetNewFactIntent tell me a green fact
+GetNewFactIntent give me a green idea
+GetNewFactIntent give me a green fact
+GetNewFactIntent green idea
+GetNewFactIntent give me a green fact
+GetNewFactIntent tell me a green fact
+GetNewFactIntent what's my green fact for today
+GetNewFactIntent give me a green tip for today
+GetNewFactIntent give me some information on going green
+GetNewFactIntent give me some tips to go green
+GetNewFactIntent tell me something about going green
+GetNewFactIntent give me something about going green everyday
